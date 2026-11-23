@@ -1,1 +1,8 @@
+{
+  "meta": {
+    "title": "DNSHE 免费域名",
+    "description": "把 DNSHE 免费域名接进 DSH：八个工具覆盖子域名注册/续期/删除、A/AAAA/CNAME/TXT/MX/SRV/CAA 解析增删改查、名额用量、到期巡检、WHOIS，并且能把 apiKey / apiSecret 直接写进凭据库（写入前联网验证 + 写前备份）。凭据读后台导出的 dnshe-accounts JSON，多账号可切换。",
+    "detail": "docs/DETAIL.md"
+  }
+}
 
