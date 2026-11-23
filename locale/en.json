@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "DNSHE free domains",
+    "description": "Brings DNSHE free domains into DSH: eight tools for registering, renewing and deleting free subdomains, writing apiKey / apiSecret into the credential store with a live check and a backup first, creating, updating and deleting A/AAAA/CNAME/TXT/MX/SRV/CAA records, checking quota, scanning expiry and running WHOIS. Credentials come from the exported dnshe-accounts JSON, with switchable multi-account support.",
+    "detail": "docs/DETAIL.md"
+  }
+}
