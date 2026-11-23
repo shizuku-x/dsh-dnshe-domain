@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
+  <defs>
+    <clipPath id="dnsheGlobeClip">
+      <circle cx="15.5" cy="14.5" r="9.6"/>
+    </clipPath>
+  </defs>
+  <circle cx="15.5" cy="14.5" r="9.6" stroke="#2F6FD0" stroke-width="1.8"/>
+  <ellipse cx="15.5" cy="14.5" rx="4.5" ry="9.6" stroke="#2F6FD0" stroke-width="1.4"/>
+  <g clip-path="url(#dnsheGlobeClip)">
+    <path d="M5.2 10.6h20.6M5.2 18.4h20.6" stroke="#2F6FD0" stroke-width="1.4"/>
+  </g>
+  <path d="M22.2 21.3 26.4 25" stroke="#3A8EE6" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="28.1" cy="26.6" r="3.2" fill="#3A8EE6"/>
+</svg>
